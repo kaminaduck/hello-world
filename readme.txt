@@ -1,3 +1,5 @@
 Hello!
 
-This is CHallenge #3 in Git-it
+This is Challenge #3 in Git-it
+
+Added a new line
